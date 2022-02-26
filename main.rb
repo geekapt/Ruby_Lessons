@@ -1,0 +1,1 @@
+load 'hashes.rb'
